@@ -36,7 +36,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/quad.git](https://github.com/dg-2805/QUAD/)
+git clone https://github.com/dg-2805/QUAD/
 cd QUAD
 ````
 
